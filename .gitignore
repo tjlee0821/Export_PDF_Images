@@ -1,0 +1,35 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env
+.env.*
+
+# Build / packaging
+build/
+dist/
+*.spec
+
+# Executables
+*.exe
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# PDF / Output files
+*.pdf
+*.png
+*.jpg
+*.jpeg
+
+# Temp files
+tmp/
+temp/
